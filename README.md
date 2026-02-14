@@ -6,7 +6,7 @@
 
 利用 **28BYJ-48 步進馬達** 搭配 **HC-SR04 超音波感測器**，製作一個 180 度的雷達掃描器。步進馬達帶動超音波模組旋轉，每轉一步就測量一次距離，再透過 Serial 將角度與距離資料傳送到電腦端，由 **Processing** 程式繪製出雷達掃描畫面。
 ![接線範例](https://github.com/marc47marc47/arduino-uno-radar/blob/main/demo.jpg?raw=true)
-![雷達掃描畫面](https://github.com/marc47marc47/arduino-uno-radar/blob/main/radar.jpg?raw=true)
+![雷達掃描畫面](https://github.com/marc47marc47/arduino-uno-radar/blob/main/radar.png?raw=true)
 
 ### 偵測規格
 
